@@ -21,7 +21,7 @@ public class Main {
         gerardo.mostrarInformacion();
 
         // usuairo devuelve el libro
-        biblioteca.recibirDevolucion(gerardo, "El Principito");
+        biblioteca.recibirDevolucion(gerardo, "El Hijo de los Mares");
 
         // Mostrar libros disponibles nuevamente
         biblioteca.mostrarLibrosDisponibles();
